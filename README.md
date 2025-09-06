@@ -1,2 +1,2 @@
 # heuristic-web-scraper
-scraping most important data from websites using heuristics
+A project that leverages heuristics to identify and extract key data from websites.
